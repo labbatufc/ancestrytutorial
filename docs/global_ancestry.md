@@ -1,4 +1,8 @@
-# Global ancestry step by step
+# Rye global ancestry step by step
+
+[rye](https://github.com/healthdisparities/rye)
+
+(https://academic.oup.com/nar/article/51/8/e44/7079633)
 
 ## 1. **Prepare Variant Data**
 - **Collect VCFs** for All of Us participants, 1KGP, and HGDP, all on the same genome build (e.g., hg38).
